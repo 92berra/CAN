@@ -1,4 +1,4 @@
-# PCAN Selfstudy
+# PCAN
 
 PCAN Selfstudy using PCAN Basic API
 
