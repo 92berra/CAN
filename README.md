@@ -1,6 +1,6 @@
 # CAN
 
-CAN Selfstudy using PCAN Basic API, PCAN-USB
+CAN Selfstudy using PCANBasic API, PCAN-USB
 
 <br/>
 
