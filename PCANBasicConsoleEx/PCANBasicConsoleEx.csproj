@@ -46,18 +46,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="1_IDENTIFYING_HARDWARE\1_1_PCAN_CHANNEL_CONDITION.cs" />
-    <Compile Include="1_IDENTIFYING_HARDWARE\1_2_PCAN_CHANNEL_IDENTIFYING.cs" />
-    <Compile Include="1_IDENTIFYING_HARDWARE\1_3_PCAN_DEVICE_ID.cs" />
-    <Compile Include="1_IDENTIFYING_HARDWARE\1_5_PCAN_CONTROLLER_NUMBER.cs" />
-    <Compile Include="1_IDENTIFYING_HARDWARE\1_6_PCAN_IP_ADDRESS.cs" />
-    <Compile Include="1_IDENTIFYING_HARDWARE\1_4_PCAN_HARDWARE_NAME.cs" />
-    <Compile Include="1_IDENTIFYING_HARDWARE\1_7_PCAN_ATTACHED_CHANNELS.cs" />
-    <Compile Include="1_IDENTIFYING_HARDWARE\1_8_PCAN_DEVICE_PART_NUMBER.cs" />
-    <Compile Include="1_IDENTIFYING_HARDWARE\1_0_IDENTIFYING_HARDWARE.cs" />
-    <Compile Include="2_INFORMATIONAL_PARAMETERS\2_0_INFORMATIONAL_PARAMETERS.cs" />
-    <Compile Include="2_INFORMATIONAL_PARAMETERS\2_1_PCAN_API_VERSION.cs" />
-    <Compile Include="2_INFORMATIONAL_PARAMETERS\Class1.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -65,7 +53,6 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="3_SPECIAL_BEHAVIORS\" />
     <Folder Include="4_CONTROLLING_THE_DATA_FLOW\" />
     <Folder Include="5_LOGGING_PARAMETERS\" />
     <Folder Include="6_TRACING_PARAMETERS\" />
