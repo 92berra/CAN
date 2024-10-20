@@ -8,3 +8,13 @@ C:\Users\hyunhwa.oh\Documents\workspace\PCANBasicConsoleEx\PCANBasicConsoleEx\ob
 C:\Users\hyunhwa.oh\Documents\workspace\PCANBasicConsoleEx\PCANBasicConsoleEx\obj\Debug\PCANBasicConsoleEx.csproj.CopyComplete
 C:\Users\hyunhwa.oh\Documents\workspace\PCANBasicConsoleEx\PCANBasicConsoleEx\obj\Debug\PCANBasicConsoleEx.exe
 C:\Users\hyunhwa.oh\Documents\workspace\PCANBasicConsoleEx\PCANBasicConsoleEx\obj\Debug\PCANBasicConsoleEx.pdb
+C:\Users\hyunhwa.oh\Documents\workspace\PCANBasicEx\PCANBasicConsoleEx\bin\Debug\PCANBasicConsoleEx.exe.config
+C:\Users\hyunhwa.oh\Documents\workspace\PCANBasicEx\PCANBasicConsoleEx\bin\Debug\PCANBasicConsoleEx.exe
+C:\Users\hyunhwa.oh\Documents\workspace\PCANBasicEx\PCANBasicConsoleEx\bin\Debug\PCANBasicConsoleEx.pdb
+C:\Users\hyunhwa.oh\Documents\workspace\PCANBasicEx\PCANBasicConsoleEx\bin\Debug\PCANBasic_hh.dll
+C:\Users\hyunhwa.oh\Documents\workspace\PCANBasicEx\PCANBasicConsoleEx\bin\Debug\PCANBasic_hh.pdb
+C:\Users\hyunhwa.oh\Documents\workspace\PCANBasicEx\PCANBasicConsoleEx\obj\Debug\PCANBasicConsoleEx.csproj.AssemblyReference.cache
+C:\Users\hyunhwa.oh\Documents\workspace\PCANBasicEx\PCANBasicConsoleEx\obj\Debug\PCANBasicConsoleEx.csproj.CoreCompileInputs.cache
+C:\Users\hyunhwa.oh\Documents\workspace\PCANBasicEx\PCANBasicConsoleEx\obj\Debug\PCANBasicConsoleEx.csproj.CopyComplete
+C:\Users\hyunhwa.oh\Documents\workspace\PCANBasicEx\PCANBasicConsoleEx\obj\Debug\PCANBasicConsoleEx.exe
+C:\Users\hyunhwa.oh\Documents\workspace\PCANBasicEx\PCANBasicConsoleEx\obj\Debug\PCANBasicConsoleEx.pdb
