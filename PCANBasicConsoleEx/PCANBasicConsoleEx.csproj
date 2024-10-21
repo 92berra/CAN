@@ -52,11 +52,6 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="4_CONTROLLING_THE_DATA_FLOW\" />
-    <Folder Include="5_LOGGING_PARAMETERS\" />
-    <Folder Include="6_TRACING_PARAMETERS\" />
-    <Folder Include="7_ELECTRONIC_CIRCUITS_PARAMETER\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
